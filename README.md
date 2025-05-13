@@ -42,10 +42,9 @@ I enjoy crafting smooth UI/UX and writing maintainable, scalable code.
 
 ![Profile views](https://komarev.com/ghpvc/?username=mohamedhissy&label=Profile%20views&color=0e75b6&style=flat)
 
----
 
-## 📫 Connect with me:
--  [LinkedIn](https://www.linkedin.com/in/your-profile)
+   Connect with me:
+-  [Portofolio](https://www.portofoliomohammedalhessy.netlify.app/)
 -  Email: mhmdalhsy49@gmail.com
 - [GitHub](https://github.com/mohamedhissy)
 
