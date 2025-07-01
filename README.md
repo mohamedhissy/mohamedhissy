@@ -12,7 +12,9 @@ I enjoy crafting smooth UI/UX and writing maintainable, scalable code.
         public function knowledge()
         {
             return collect([
+                "PHP",
                 "Laravel",
+                "Dart",
                 "Flutter",
                 "Android",
                 "Java",
@@ -27,6 +29,7 @@ I enjoy crafting smooth UI/UX and writing maintainable, scalable code.
         {
             return collect([
                 "Email" => "mhmdalhsy49@gmail.com",
+                "WhatsApp" => "00972598882540",
                 "github" => "https://github.com/mohamedhissy", 
             ]);
         }
@@ -47,5 +50,6 @@ I enjoy crafting smooth UI/UX and writing maintainable, scalable code.
 -  Portofolio: [Portofolio](https://mohamed-alhessy.netlify.app/)
 -  Email: mhmdalhsy49@gmail.com
 - GitHub: [GitHub](https://github.com/mohamedhissy)
+- WhatsApp: +972598882540
 
 
