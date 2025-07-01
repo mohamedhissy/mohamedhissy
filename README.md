@@ -44,8 +44,8 @@ I enjoy crafting smooth UI/UX and writing maintainable, scalable code.
 
 
    Connect with me:
--  [Portofolio](https://portofoliomohammedalhessy.netlify.app/)
+-  Portofolio: [Portofolio](https://mohamed-alhessy.netlify.app/)
 -  Email: mhmdalhsy49@gmail.com
-- [GitHub](https://github.com/mohamedhissy)
+- GitHub: [GitHub](https://github.com/mohamedhissy)
 
 
